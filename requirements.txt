@@ -1,0 +1,7 @@
+# requirements.txt
+
+flask==2.2.5             # Web framework
+pyyaml==5.3.1            # ⚠️ Known CVE: unsafe YAML deserialization
+requests==2.19.1         # ⚠️ Known CVE: improper redirect handling
+openai==0.27.4           # OpenAI Python SDK
+torch==1.10.2            # AI/ML library (used to simulate model loading)
